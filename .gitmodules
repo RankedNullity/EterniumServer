@@ -7,3 +7,6 @@
 [submodule "EterniumEngine"]
 	path = EterniumEngine
 	url = git@github.com:TheNightly/EterniumEngine.git
+[submodule "GameEngine"]
+	path = GameEngine
+	url = git@github.com:TheNightly/EterniumEngine.git
