@@ -1,0 +1,9 @@
+[submodule "GameServer"]
+	path = GameServer
+	url = git@github.com:TheNightly/GameServer.git
+[submodule "UnitTests"]
+	path = UnitTests
+	url = git@github.com:TheNightly/UnitTests.git
+[submodule "EterniumEngine"]
+	path = EterniumEngine
+	url = git@github.com:TheNightly/EterniumEngine.git
